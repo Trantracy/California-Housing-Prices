@@ -1,0 +1,1 @@
+Techniques used Feature Scaling, Feature engineer, one-hot encoding and train model by Linear Regression, Random Forest, Decision tree. Evaluate the model by cross validation, MSE. Using GridSearchCV, randomizedSearchCV  to find the best hyperparameter
